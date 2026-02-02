@@ -15,7 +15,9 @@ done
 }
 
 main () {
-if [[ $1 == "-h" ]]; then
+if [[ $# > 1 ]]; then
+	usage
+elif [[ $1 == "-h" ]]; then
 	usage
 elif [[ $1 == "-p" ]]; then
 	echo = "Sweeping..."

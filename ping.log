@@ -1082,3 +1082,78 @@ PING onyxnode55.boisestate.edu (10.29.2.163) 56(84) bytes of data.
 --- onyxnode55.boisestate.edu ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 0.838/0.838/0.838/0.000 ms
+PING 1 (0.0.0.1) 56(84) bytes of data.
+
+--- 1 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 2 (0.0.0.2) 56(84) bytes of data.
+
+--- 2 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 3 (0.0.0.3) 56(84) bytes of data.
+
+--- 3 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 4 (0.0.0.4) 56(84) bytes of data.
+
+--- 4 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 5 (0.0.0.5) 56(84) bytes of data.
+
+--- 5 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 6 (0.0.0.6) 56(84) bytes of data.
+
+--- 6 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 7 (0.0.0.7) 56(84) bytes of data.
+
+--- 7 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 8 (0.0.0.8) 56(84) bytes of data.
+
+--- 8 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 9 (0.0.0.9) 56(84) bytes of data.
+
+--- 9 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 10 (0.0.0.10) 56(84) bytes of data.
+
+--- 10 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 11 (0.0.0.11) 56(84) bytes of data.
+
+--- 11 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 12 (0.0.0.12) 56(84) bytes of data.
+
+--- 12 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 13 (0.0.0.13) 56(84) bytes of data.
+
+--- 13 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 14 (0.0.0.14) 56(84) bytes of data.
+
+--- 14 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
+PING 15 (0.0.0.15) 56(84) bytes of data.
+
+--- 15 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+

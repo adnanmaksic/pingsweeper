@@ -7,20 +7,23 @@ echo "Usage: ./pingsweep.sh <-h|-p>"
 }
 
 ping_sweeper () {
+> ping.log
 local total=0
 local found=0
 for i in {1..200}
 do
         echo "$base$i"
-        ping -c 1 -w 1 $base$i >> ping.log
+        ping -c 1 -w 1 $base$i >> temp.log
 	if [ $? -eq 0 ]; then
-		echo "Node ${i} found."
+		echo "${base}${i} found." >> ping.log
 		found=$((found+1))
 	else
 		echo "Node ${i} not found."
 	fi
 	total=$((total +1))
 done
+echo "Total nodes found: ${found} / ${total}" >> ping.log
+rm -f temp.log
 }
 
 main () {
